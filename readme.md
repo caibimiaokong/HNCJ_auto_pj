@@ -1,3 +1,5 @@
+![image](https://github.com/caibimiaokong/HNCJ_auto_pj/assets/90626136/49d1ddb2-0cf1-4ef8-a62a-4dc4c5fc7205)
+
 # 使用方法
 - 复制`main.py`文件到本地
 - 在pycharm中下载DrissionPage库
