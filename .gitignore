@@ -13,12 +13,14 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+.idea/
 .eggs/
 lib/
 lib64/
 parts/
 sdist/
 var/
+venu/
 wheels/
 share/python-wheels/
 *.egg-info/
