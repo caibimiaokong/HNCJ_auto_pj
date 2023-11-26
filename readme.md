@@ -9,4 +9,7 @@
   ```python
    from DrissionPage.easy_set import set_paths
     set_paths(browser_path=r'这里修改为您的浏览器可执行文件路径')
-```
+  ```
+- 该项目仅适用于河南城建学院教务系统
+- 项目仅供学习
+  
